@@ -1,2 +1,2 @@
 # simple_cms
-a demo cms write by flask 
+a demo cms writed by flask
