@@ -7,4 +7,4 @@ application config
 DEBUG = True
 CHARSET = 'UTF-8'
 LOGIN_KEY = 'user_id'  # website login key
-ADMIN_LOGIN_KEY = 'admin_id'  # admin login key
+ADMIN_LOGIN_KEY = 'admin_id'  # backend admin login key
